@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingActivity", "ReadingActivity\ReadingActivity.csproj", "{917DB8E6-7CDE-4BFE-9D22-5AFC71DD7A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundButton", "ClassLibrary1\RoundButton.csproj", "{414C1D23-18EC-4370-A56E-9B83986DC88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917DB8E6-7CDE-4BFE-9D22-5AFC71DD7A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917DB8E6-7CDE-4BFE-9D22-5AFC71DD7A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917DB8E6-7CDE-4BFE-9D22-5AFC71DD7A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917DB8E6-7CDE-4BFE-9D22-5AFC71DD7A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414C1D23-18EC-4370-A56E-9B83986DC88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414C1D23-18EC-4370-A56E-9B83986DC88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414C1D23-18EC-4370-A56E-9B83986DC88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414C1D23-18EC-4370-A56E-9B83986DC88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3F285E-677D-4893-876D-0B625D04D901}
+	EndGlobalSection
+EndGlobal

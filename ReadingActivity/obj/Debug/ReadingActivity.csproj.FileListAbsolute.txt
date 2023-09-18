@@ -1,0 +1,13 @@
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\bin\Debug\ReadingActivity.exe.config
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\bin\Debug\ReadingActivity.exe
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\bin\Debug\ReadingActivity.pdb
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.Form1.resources
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.Properties.Resources.resources
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.csproj.GenerateResource.cache
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.exe
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.pdb
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\bin\Debug\ClassLibrary1.dll
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\bin\Debug\ClassLibrary1.pdb
+C:\Users\ali\source\repos\ReadingActivity\ReadingActivity\obj\Debug\ReadingActivity.csproj.CopyComplete
